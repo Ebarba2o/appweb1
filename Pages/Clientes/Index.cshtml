@@ -1,0 +1,30 @@
+﻿@page
+@model MyApp.Namespace.IndexModel
+@{
+}
+
+<div class = "container">
+    <h1>Listado de Clientes </h1>
+    <hr>
+    <table class = "table">
+        <thead>
+            <tr>
+                <td>Id</td>
+                <td>Nombres</td>
+                <td>Apellidos</td>
+                <td>Dni</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var c in Model.Clientes){
+                <tr>
+                    <tr>@c.IdCliente</tr>
+                    <tr>@c.Nombres</tr>
+                    <tr>@c.Apellidos</tr>
+                    <tr>@c.Dni</tr>
+                </tr>
+            }
+        </tbody>
+    </table>
+    </hr>
+</div>
