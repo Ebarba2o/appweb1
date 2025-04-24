@@ -229,3 +229,4 @@ D:\repocrud\appweb1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cry
 D:\repocrud\appweb1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\repocrud\appweb1\obj\Debug\net9.0\appweb1.csproj.AssemblyReference.cache
 D:\repocrud\appweb1\obj\Debug\net9.0\appweb1.csproj.Up2Date
+D:\repocrud\appweb1\obj\Debug\net9.0\appweb1.sourcelink.json
